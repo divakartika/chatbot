@@ -3,7 +3,7 @@ from openai import OpenAI
 
 
 """
-# Chatbot Trial
+# Simple Chatbot
 """
 
 # def response_generator():
